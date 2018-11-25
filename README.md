@@ -20,3 +20,6 @@ Hi! This is a educational project. Don't use it for evil things.
 *  2. Don't forget to set GObjects/Gname adress in LA_BASIC.cpp
 * 3. Do your stuff
 
+
+###
+generated with KN4CK3R sdkgen
