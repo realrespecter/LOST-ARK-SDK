@@ -4,6 +4,7 @@ Hi! This is a educational project. Don't use it for evil things.
 
 # OFFSETS
 **BASE ADRESS:** EFEngine.dll
+
 |           NAME          |         OFFSET                         |SIGNATURE                         |
 |----------------|-------------------------------|-----------------------------|
 |GOBJECTS|`'1D0E7E8'`            |"(+0x99) E8 ? ? ? ? 4C 8D 3D ? ? ? ? 66 0F 1F 44 00 ?"            |
